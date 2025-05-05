@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\bin\Debug\net8.0\ScreenSoud.exe
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\bin\Debug\net8.0\ScreenSoud.deps.json
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\bin\Debug\net8.0\ScreenSoud.runtimeconfig.json
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\bin\Debug\net8.0\ScreenSoud.dll
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\bin\Debug\net8.0\ScreenSoud.pdb
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.AssemblyInfo.cs
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.dll
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\refint\ScreenSoud.dll
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.pdb
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ScreenSoud.genruntimeconfig.cache
+C:\Users\vitor\source\repos\ScreenSoud\ScreenSoud\obj\Debug\net8.0\ref\ScreenSoud.dll
