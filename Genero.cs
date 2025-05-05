@@ -1,5 +1,5 @@
-﻿using ScreenSoud;
-   public enum GeneroMusical
+﻿namespace ScreenSoud;
+   public enum Genero
     {
         Rock,
         Pop,
